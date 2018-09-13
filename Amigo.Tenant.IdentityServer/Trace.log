@@ -9802,3 +9802,32 @@ w3wp.exe Information: 0 : 2018-09-13 00:03:40.097 -05:00 [Information] Requested
 w3wp.exe Information: 0 : 2018-09-13 00:03:41.201 -05:00 [Information] Profile service returned to the following claim types: "sub preferred_username email email_verified role given_name family_name"
 w3wp.exe Information: 0 : 2018-09-13 00:03:41.202 -05:00 [Information] End userinfo request
 w3wp.exe Information: 0 : 2018-09-13 00:03:41.202 -05:00 [Information] Returning userinfo response.
+w3wp.exe Information: 0 : 2018-09-13 17:24:22.416 -05:00 [Information] Starting IdentityManager configuration
+Amigo.Tenant.IdentityServer.ApplicationServices.Mapping.Profiles.UsersProfile
+w3wp.exe Information: 0 : 2018-09-13 17:24:54.954 -05:00 [Information] Permissions page requested
+w3wp.exe Information: 0 : 2018-09-13 17:24:54.954 -05:00 [Information] User not authenticated, redirecting to login
+w3wp.exe Information: 0 : 2018-09-13 17:24:54.991 -05:00 [Information] Redirecting to login page
+2018-09-13 17:24:59.092 -05:00 [Debug] Protecting message: "{\"ReturnUrl\":\"http://127.0.0.1:7071/permissions\",\"AcrValues\":[],\"Created\":636724742949581685}"
+w3wp.exe Information: 0 : 2018-09-13 17:24:59.282 -05:00 [Information] Login page requested
+2018-09-13 17:24:59.381 -05:00 [Debug] signin message passed to login: "{
+  \"ReturnUrl\": \"http://127.0.0.1:7071/permissions\",
+  \"ClientId\": null,
+  \"IdP\": null,
+  \"Tenant\": null,
+  \"LoginHint\": null,
+  \"DisplayMode\": null,
+  \"UiLocales\": null,
+  \"AcrValues\": [],
+  \"Created\": 636724742949581685
+}"
+w3wp.exe Information: 0 : 2018-09-13 17:25:01.535 -05:00 [Information] rendering login page
+w3wp.exe Information: 0 : 2018-09-13 17:25:35.366 -05:00 [Information] Login page submitted
+w3wp.exe Information: 0 : 2018-09-13 17:25:39.205 -05:00 [Information] Login credentials successfully validated by user service
+w3wp.exe Information: 0 : 2018-09-13 17:25:39.220 -05:00 [Information] Calling PostAuthenticateAsync on the user service
+w3wp.exe Information: 0 : 2018-09-13 17:25:39.226 -05:00 [Information] issuing primary signin cookie
+w3wp.exe Information: 0 : 2018-09-13 17:25:39.236 -05:00 [Information] redirecting to: http://127.0.0.1:7071/permissions
+w3wp.exe Information: 0 : 2018-09-13 17:25:39.283 -05:00 [Information] Permissions page requested
+w3wp.exe Information: 0 : 2018-09-13 17:25:39.283 -05:00 [Information] Rendering permissions page
+w3wp.exe Information: 0 : 2018-09-13 17:26:06.259 -05:00 [Information] User is authenticated from idmgr.Local
+w3wp.exe Information: 0 : 2018-09-13 17:26:37.908 -05:00 [Information] Start discovery request
+w3wp.exe Information: 0 : 2018-09-13 17:26:38.252 -05:00 [Information] Start key discovery request
