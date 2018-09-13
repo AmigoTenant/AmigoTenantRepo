@@ -74,6 +74,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="angular-cli.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
