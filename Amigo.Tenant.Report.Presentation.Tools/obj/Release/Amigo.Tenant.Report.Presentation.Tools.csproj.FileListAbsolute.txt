@@ -1,0 +1,7 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Report.Presentation.Tools\bin\Release\Amigo.Tenant.Report.Presentation.Tools.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Report.Presentation.Tools\bin\Release\Amigo.Tenant.Report.Presentation.Tools.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Report.Presentation.Tools\obj\Release\Amigo.Tenant.Report.Presentation.Tools.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Report.Presentation.Tools\obj\Release\Amigo.Tenant.Report.Presentation.Tools.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Report.Presentation.Tools\obj\Release\Amigo.Tenant.Report.Presentation.Tools.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Report.Presentation.Tools\obj\Release\Amigo.Tenant.Report.Presentation.Tools.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Report.Presentation.Tools\obj\Release\Amigo.Tenant.Report.Presentation.Tools.csproj.CopyComplete

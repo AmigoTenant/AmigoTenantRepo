@@ -1,0 +1,15 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\Amigo.Tenant.Commands.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\Amigo.Tenant.Commands.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\Amigo.Tenant.Application.DTOs.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\Amigo.Tenant.CommandModel.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\EntityFramework.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\Amigo.Tenant.Application.DTOs.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\Amigo.Tenant.CommandModel.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\Amigo.Tenant.CommandModel.dll.config
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\EntityFramework.xml
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\obj\Release\Amigo.Tenant.Commands.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\obj\Release\Amigo.Tenant.Commands.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\obj\Release\Amigo.Tenant.Commands.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\obj\Release\Amigo.Tenant.Commands.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\obj\Release\Amigo.Tenant.Commands.csproj.CopyComplete
+C:\AmigoDev\Source1\Amigo.Tenant.Commands\bin\Release\MediatR.dll

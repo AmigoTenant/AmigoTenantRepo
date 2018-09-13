@@ -1,0 +1,5 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure.Persistence\bin\Release\Amigo.Tenant.Infrastructure.Persistence.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure.Persistence\bin\Release\Amigo.Tenant.Infrastructure.Persistence.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure.Persistence\obj\Release\Amigo.Tenant.Infrastructure.Persistence.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure.Persistence\obj\Release\Amigo.Tenant.Infrastructure.Persistence.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure.Persistence\obj\Release\Amigo.Tenant.Infrastructure.Persistence.csproj.CoreCompileInputs.cache

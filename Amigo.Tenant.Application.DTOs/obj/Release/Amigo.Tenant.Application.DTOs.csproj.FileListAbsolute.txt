@@ -1,0 +1,6 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Application.DTOs\bin\Release\Amigo.Tenant.Application.DTOs.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.DTOs\bin\Release\Amigo.Tenant.Application.DTOs.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Application.DTOs\obj\Release\Amigo.Tenant.Application.DTOs.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.DTOs\obj\Release\Amigo.Tenant.Application.DTOs.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Application.DTOs\obj\Release\Amigo.Tenant.Application.DTOs.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Application.DTOs\obj\Release\Amigo.Tenant.Application.DTOs.csprojResolveAssemblyReference.cache

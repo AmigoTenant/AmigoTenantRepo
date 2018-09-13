@@ -1,0 +1,9 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Common\bin\Debug\Amigo.Tenant.Common.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Common\bin\Debug\Amigo.Tenant.Common.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Common\bin\Debug\EPPlus.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Common\bin\Debug\EPPlus.xml
+C:\AmigoDev\Source1\Amigo.Tenant.Common\obj\Debug\Amigo.Tenant.Common.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Common\obj\Debug\Amigo.Tenant.Common.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Common\obj\Debug\Amigo.Tenant.Common.csproj.CopyComplete
+C:\AmigoDev\Source1\Amigo.Tenant.Common\obj\Debug\Amigo.Tenant.Common.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Common\obj\Debug\Amigo.Tenant.Common.pdb

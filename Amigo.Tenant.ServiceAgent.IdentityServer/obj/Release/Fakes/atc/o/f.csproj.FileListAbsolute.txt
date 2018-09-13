@@ -1,0 +1,16 @@
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Amigo.Tenant.Common.Fakes.xml
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Amigo.Tenant.Common.Fakes.dll
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Amigo.Tenant.Common.Fakes.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Amigo.Tenant.Application.DTOs.dll
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Amigo.Tenant.Common.dll
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\IdentityModel.dll
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\System.Net.Http.Formatting.dll
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Amigo.Tenant.Common.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\Amigo.Tenant.Application.DTOs.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\b\System.Net.Http.Formatting.xml
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\o\f.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\o\f.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\o\f.csproj.CopyComplete
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\o\Amigo.Tenant.Common.Fakes.dll
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\obj\Release\Fakes\atc\o\Amigo.Tenant.Common.Fakes.pdb

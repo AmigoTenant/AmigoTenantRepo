@@ -1,0 +1,5 @@
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\Fakes\Amigo.Tenant.Common.fakes : warning : Cannot generate stub for Amigo.Tenant.Common.ConstantsSecurity: type is sealed.
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\Fakes\Amigo.Tenant.Common.fakes : warning : Cannot generate stub for Amigo.Tenant.Common.Constants: type is sealed.
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\Fakes\Amigo.Tenant.Common.fakes : warning : Cannot generate stub for Amigo.Tenant.Common.XmlHelper: type is sealed.
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\Fakes\Amigo.Tenant.Common.fakes : warning : Cannot generate stub for Amigo.Tenant.Common.ServiceConstants.Security.CacheKeys: type is sealed.
+C:\AmigoDev\Source1\Amigo.Tenant.ServiceAgent.IdentityServer\Fakes\Amigo.Tenant.Common.fakes : warning : Cannot generate shim for Amigo.Tenant.Common.XmlHelper+<>c__DisplayClass5_0`1: type is not supported because of internal limitations.

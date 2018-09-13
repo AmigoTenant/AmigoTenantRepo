@@ -1,0 +1,6 @@
+C:\AmigoDev\Source1\Amigo.Tenant.IndentityServer.DTOs\bin\Debug\Amigo.Tenant.IdentityServer.DTOs.dll
+C:\AmigoDev\Source1\Amigo.Tenant.IndentityServer.DTOs\bin\Debug\Amigo.Tenant.IdentityServer.DTOs.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.IndentityServer.DTOs\obj\Debug\Amigo.Tenant.IdentityServer.DTOs.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.IndentityServer.DTOs\obj\Debug\Amigo.Tenant.IdentityServer.DTOs.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.IndentityServer.DTOs\obj\Debug\Amigo.Tenant.IdentityServer.DTOs.dll
+C:\AmigoDev\Source1\Amigo.Tenant.IndentityServer.DTOs\obj\Debug\Amigo.Tenant.IdentityServer.DTOs.pdb

@@ -1,0 +1,2 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.WebApi\bin\SqlServerTypes\x64\msvcr100.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial110.dll

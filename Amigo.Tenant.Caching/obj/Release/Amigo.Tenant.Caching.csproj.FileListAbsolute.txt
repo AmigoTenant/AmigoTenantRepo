@@ -1,0 +1,13 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\Amigo.Tenant.Caching.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\Amigo.Tenant.Caching.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\Amigo.Tenant.Infrastructure.Persistence.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\Autofac.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\Amigo.Tenant.Infrastructure.Persistence.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\Autofac.xml
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\CacheManager.SystemRuntimeCaching.xml
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\obj\Release\Amigo.Tenant.Caching.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\obj\Release\Amigo.Tenant.Caching.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\obj\Release\Amigo.Tenant.Caching.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\obj\Release\Amigo.Tenant.Caching.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\obj\Release\Amigo.Tenant.Caching.csproj.CopyComplete
+C:\AmigoDev\Source1\Amigo.Tenant.Caching\bin\Release\CacheManager.SystemRuntimeCaching.dll

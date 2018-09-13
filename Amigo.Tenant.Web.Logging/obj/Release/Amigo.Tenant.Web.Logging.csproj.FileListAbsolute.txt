@@ -1,0 +1,14 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\Amigo.Tenant.Web.Logging.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\Amigo.Tenant.Web.Logging.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\Amigo.Tenant.Common.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\Newtonsoft.Json.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\System.Net.Http.Formatting.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\System.Web.Http.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\Amigo.Tenant.Common.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\System.Net.Http.Formatting.xml
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\bin\Release\System.Web.Http.xml
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\obj\Release\Amigo.Tenant.Web.Logging.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\obj\Release\Amigo.Tenant.Web.Logging.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\obj\Release\Amigo.Tenant.Web.Logging.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\obj\Release\Amigo.Tenant.Web.Logging.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Web.Logging\obj\Release\Amigo.Tenant.Web.Logging.csproj.CopyComplete

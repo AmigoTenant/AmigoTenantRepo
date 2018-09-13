@@ -1,0 +1,11 @@
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\bin\Release\Amigo.Tenant.CommandModel.UnitTests.dll
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\bin\Release\Amigo.Tenant.CommandModel.UnitTests.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\bin\Release\FakeItEasy.dll
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\bin\Release\FakeItEasy.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\bin\Release\FakeItEasy.xml
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\obj\Release\Amigo.Tenant.CommandModel.UnitTests.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\obj\Release\Amigo.Tenant.CommandModel.UnitTests.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\obj\Release\Amigo.Tenant.CommandModel.UnitTests.csproj.CopyComplete
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\obj\Release\Amigo.Tenant.CommandModel.UnitTests.dll
+C:\AmigoDev\Source1\Amigo.Tenant.CommandModel.UnitTests\obj\Release\Amigo.Tenant.CommandModel.UnitTests.pdb

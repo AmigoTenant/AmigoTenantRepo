@@ -1,0 +1,6 @@
+C:\AmigoDev\Source1\Amigo.Tenant.CrossCutting.Entities\bin\Debug\netcoreapp2.0\Amigo.Tenant.CrossCutting.Entities.deps.json
+C:\AmigoDev\Source1\Amigo.Tenant.CrossCutting.Entities\bin\Debug\netcoreapp2.0\Amigo.Tenant.CrossCutting.Entities.dll
+C:\AmigoDev\Source1\Amigo.Tenant.CrossCutting.Entities\bin\Debug\netcoreapp2.0\Amigo.Tenant.CrossCutting.Entities.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.CrossCutting.Entities\obj\Debug\netcoreapp2.0\Amigo.Tenant.CrossCutting.Entities.AssemblyInfo.cs
+C:\AmigoDev\Source1\Amigo.Tenant.CrossCutting.Entities\obj\Debug\netcoreapp2.0\Amigo.Tenant.CrossCutting.Entities.dll
+C:\AmigoDev\Source1\Amigo.Tenant.CrossCutting.Entities\obj\Debug\netcoreapp2.0\Amigo.Tenant.CrossCutting.Entities.pdb

@@ -1,0 +1,7 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Resources\bin\Release\Amigo.Tenant.Resources.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Resources\bin\Release\Amigo.Tenant.Resources.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Resources\obj\Release\Amigo.Tenant.Resources.TextResources.resources
+C:\AmigoDev\Source1\Amigo.Tenant.Resources\obj\Release\Amigo.Tenant.Resources.csproj.GenerateResource.Cache
+C:\AmigoDev\Source1\Amigo.Tenant.Resources\obj\Release\Amigo.Tenant.Resources.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Resources\obj\Release\Amigo.Tenant.Resources.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Resources\obj\Release\Amigo.Tenant.Resources.csproj.CoreCompileInputs.cache

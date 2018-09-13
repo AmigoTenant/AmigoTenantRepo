@@ -1,0 +1,16 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.Application.Services.Interfaces.dll.config
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.Application.Services.Interfaces.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.Application.Services.Interfaces.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.Application.DTOs.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.ServiceAgent.IdentityServer.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\IdentityModel.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\System.Net.Http.Formatting.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.Application.DTOs.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.ServiceAgent.IdentityServer.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\Amigo.Tenant.ServiceAgent.IdentityServer.dll.config
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\bin\Release\System.Net.Http.Formatting.xml
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\obj\Release\Amigo.Tenant.Application.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\obj\Release\Amigo.Tenant.Application.Services.Interfaces.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\obj\Release\Amigo.Tenant.Application.Services.Interfaces.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\obj\Release\Amigo.Tenant.Application.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Application.Services.Interfaces\obj\Release\Amigo.Tenant.Application.Services.Interfaces.csproj.CopyComplete

@@ -1,0 +1,4 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Notification\bin\Debug\Amigo.Tenant.Notification.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Notification\bin\Debug\Amigo.Tenant.Notification.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Notification\obj\Debug\Amigo.Tenant.Notification.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Notification\obj\Debug\Amigo.Tenant.Notification.pdb

@@ -1,0 +1,8 @@
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\bin\Release\Amigo.Tenant.Infrastructure.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\bin\Release\Amigo.Tenant.Infrastructure.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\obj\Release\Amigo.Tenant.Infrastructure.csprojResolveAssemblyReference.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\obj\Release\Amigo.Tenant.Infrastructure.dll
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\obj\Release\Amigo.Tenant.Infrastructure.pdb
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\obj\Release\Amigo.Tenant.Infrastructure.csproj.CoreCompileInputs.cache
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\obj\Release\Amigo.Tenant.Infrastructure.csproj.CopyComplete
+C:\AmigoDev\Source1\Amigo.Tenant.Infrastructure\bin\Release\MediatR.dll

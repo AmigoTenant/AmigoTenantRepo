@@ -1,0 +1,992 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Amigo.Tenant.Common.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants">
+            <summary>Shim type of Amigo.Tenant.Common.Constants</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimActivityTypeCode">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ActivityTypeCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimActivityTypeCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimActivityTypeCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimActivityTypeCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimActivityTypeCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimActivityTypeCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimAmigoTenantTEventLogType">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+AmigoTenantTEventLogType</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimAmigoTenantTEventLogType.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimAmigoTenantTEventLogType.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimAmigoTenantTEventLogType.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimAmigoTenantTEventLogType.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimAmigoTenantTEventLogType.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimChargeTypeCode">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ChargeTypeCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimChargeTypeCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimChargeTypeCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimChargeTypeCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimChargeTypeCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimChargeTypeCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimConceptCode">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ConceptCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimConceptCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimConceptCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimConceptCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimConceptCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimConceptCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntities">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entities</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntities.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntities.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntities.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntities.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntities.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entity</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entity+AmigoTenantTRole</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.ShimErrorMessage">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entity+AmigoTenantTRole+ErrorMessage</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.ShimErrorMessage.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.ShimErrorMessage.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.ShimErrorMessage.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.ShimErrorMessage.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTRole.ShimErrorMessage.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entity+AmigoTenantTUser</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.ShimErrorMessage">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entity+AmigoTenantTUser+ErrorMessage</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.ShimErrorMessage.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.ShimErrorMessage.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.ShimErrorMessage.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.ShimErrorMessage.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimAmigoTenantTUser.ShimErrorMessage.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entity+Common</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.ShimErrorMessage">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Entity+Common+ErrorMessage</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.ShimErrorMessage.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.ShimErrorMessage.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.ShimErrorMessage.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.ShimErrorMessage.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntity.ShimCommon.ShimErrorMessage.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityCode">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityStatus</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContract">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityStatus+Contract</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContract.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContract.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContract.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContract.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContract.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContractDetail">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityStatus+ContractDetail</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContractDetail.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContractDetail.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContractDetail.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContractDetail.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimContractDetail.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimHouseServicePeriodStatus">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityStatus+HouseServicePeriodStatus</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimHouseServicePeriodStatus.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimHouseServicePeriodStatus.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimHouseServicePeriodStatus.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimHouseServicePeriodStatus.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimHouseServicePeriodStatus.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimInvoice">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityStatus+Invoice</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimInvoice.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimInvoice.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimInvoice.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimInvoice.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimInvoice.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriod">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityStatus+PaymentPeriod</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriod.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriod.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriod.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriod.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriod.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriodStatusName">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+EntityStatus+PaymentPeriodStatusName</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriodStatusName.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriodStatusName.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriodStatusName.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriodStatusName.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimEntityStatus.ShimPaymentPeriodStatusName.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ErrorMessages</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimApproveRejectProcess">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ErrorMessages+ApproveRejectProcess</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimApproveRejectProcess.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimApproveRejectProcess.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimApproveRejectProcess.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimApproveRejectProcess.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimApproveRejectProcess.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimAuthorization">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ErrorMessages+Authorization</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimAuthorization.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimAuthorization.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimAuthorization.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimAuthorization.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimErrorMessages.ShimAuthorization.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+GeneralTableCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimConceptType">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+GeneralTableCode+ConceptType</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimConceptType.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimConceptType.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimConceptType.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimConceptType.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimConceptType.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimHouseType">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+GeneralTableCode+HouseType</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimHouseType.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimHouseType.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimHouseType.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimHouseType.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimHouseType.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimPaymentType">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+GeneralTableCode+PaymentType</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimPaymentType.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimPaymentType.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimPaymentType.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimPaymentType.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableCode.ShimPaymentType.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableName">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+GeneralTableName</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableName.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableName.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableName.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableName.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimGeneralTableName.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimPaidBy">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+PaidBy</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimPaidBy.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimPaidBy.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimPaidBy.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimPaidBy.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimPaidBy.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRateCode">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+RateCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRateCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRateCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRateCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRateCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRateCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatus">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+RowStatus</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatus.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatus.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatus.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatus.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatus.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatusString">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+RowStatusString</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatusString.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatusString.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatusString.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatusString.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimRowStatusString.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceCode">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ServiceCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceStatus">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+ServiceStatus</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceStatus.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceStatus.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceStatus.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceStatus.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServiceStatus.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServices">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+Services</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServices.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServices.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServices.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServices.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimServices.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+SuccessMessages</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimApproveRejectProcess">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+SuccessMessages+ApproveRejectProcess</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimApproveRejectProcess.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimApproveRejectProcess.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimApproveRejectProcess.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimApproveRejectProcess.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimApproveRejectProcess.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimCommon">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+SuccessMessages+Common</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimCommon.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimCommon.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimCommon.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimCommon.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimSuccessMessages.ShimCommon.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimYesNo">
+            <summary>Shim type of Amigo.Tenant.Common.Constants+YesNo</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimYesNo.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstants.ShimYesNo.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimYesNo.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstants.ShimYesNo.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.ShimYesNo.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstants.StaticConstructor">
+            <summary>Sets the shim of Constants.Constants()</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity">
+            <summary>Shim type of Amigo.Tenant.Common.ConstantsSecurity</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.ShimActionCode">
+            <summary>Shim type of Amigo.Tenant.Common.ConstantsSecurity+ActionCode</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.ShimActionCode.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.ShimActionCode.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.ShimActionCode.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.ShimActionCode.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimConstantsSecurity.ShimActionCode.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimExcelHelper">
+            <summary>Shim type of Amigo.Tenant.Common.ExcelHelper</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimExcelHelper.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimExcelHelper.#ctor(Amigo.Tenant.Common.ExcelHelper)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimExcelHelper.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimExcelHelper.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimExcelHelper.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimExcelHelper.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimExcelHelper.Constructor">
+            <summary>Sets the shim of ExcelHelper.ExcelHelper()</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimExcelHelper.GetHeaderDetailListOfString">
+            <summary>Sets the shim of ExcelHelper.GetHeaderDetail(List`1&lt;String&gt; headers)</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimExcelHelper.StringToCSVCellString">
+            <summary>Sets the shim of ExcelHelper.StringToCSVCell(String str)</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimTupleList`2">
+            <summary>Shim type of Amigo.Tenant.Common.TupleList`2</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.#ctor(Amigo.Tenant.Common.TupleList{`0,`1})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimTupleList`2.AddT0T1">
+            <summary>Sets the shim of TupleList`2.Add(!0 item, !1 item2)</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimTupleList`2.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimTupleList`2.AllInstances.AddT0T1">
+            <summary>Sets the shim of TupleList`2.Add(!0 item, !1 item2)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.ICollection)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.IEnumerable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.IList)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.Generic.ICollection{System.Tuple{`0,`1}})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.Generic.IEnumerable{System.Tuple{`0,`1}})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.Generic.IList{System.Tuple{`0,`1}})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.Generic.IReadOnlyCollection{System.Tuple{`0,`1}})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Bind(System.Collections.Generic.IReadOnlyList{System.Tuple{`0,`1}})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimTupleList`2.Constructor">
+            <summary>Sets the shim of TupleList`2.TupleList`2()</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.ShimXmlHelper">
+            <summary>Shim type of Amigo.Tenant.Common.XmlHelper</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.AppendPropertyNodesForRequestOrResponseXmlDocumentXmlNodeObject">
+            <summary>Sets the shim of XmlHelper.AppendPropertyNodesForRequestOrResponse(XmlDocument xml, XmlNode parameterInNode, Object request)</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.AppendPropertyNodesForRequestOrResponseXmlDocumentXmlNodeObjectListOfStringBoolean">
+            <summary>Sets the shim of XmlHelper.AppendPropertyNodesForRequestOrResponse(XmlDocument xml, XmlNode parameterInNode, Object request, List`1&lt;String&gt; excludeProperties, Boolean excludeDates)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.AppendPropertyNodesForRequestWithoutDateTimesOf1XmlDocumentXmlNodeM0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{System.Xml.XmlDocument,System.Xml.XmlNode,``0})">
+            <summary>Sets the shim of XmlHelper.AppendPropertyNodesForRequestWithoutDateTimes(XmlDocument xml, XmlNode parameterInNode, !!0 request)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.ConvertListTypeObject">
+            <summary>Sets the shim of XmlHelper.ConvertList(Type type, Object obj)</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.GenerateXmlServiceLineResponseStringString">
+            <summary>Sets the shim of XmlHelper.GenerateXmlServiceLineResponse(String response, String xmlServiceName)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.GenerateXmlServiceRequestOf1M0String``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{``0,System.String,System.Xml.XmlDocument})">
+            <summary>Sets the shim of XmlHelper.GenerateXmlServiceRequest(!!0 request1, String xmlServiceName)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.GenerateXmlServiceRequestOf1M0StringBoolean``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{``0,System.String,System.Boolean,System.Xml.XmlDocument})">
+            <summary>Sets the shim of XmlHelper.GenerateXmlServiceRequest(!!0 request1, String xmlServiceName, Boolean includeDateTime)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.GenerateXmlServiceRequestOf2M0M1String``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{``0,``1,System.String,System.Xml.XmlDocument})">
+            <summary>Sets the shim of XmlHelper.GenerateXmlServiceRequest(!!0 request1, !!1 request2, String xmlServiceName)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.GenerateXmlServiceResponseOf1ListOfM0String``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Collections.Generic.List{``0},System.String,System.Xml.XmlDocument})">
+            <summary>Sets the shim of XmlHelper.GenerateXmlServiceResponse(List`1&lt;!!0&gt; responses, String xmlServiceName)</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.ShimXmlHelper.GenerateXmlServiceResponseOf1ListOfM0StringListOfString``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Collections.Generic.List{``0},System.String,System.Collections.Generic.List{System.String},System.Xml.XmlDocument})">
+            <summary>Sets the shim of XmlHelper.GenerateXmlServiceResponse(List`1&lt;!!0&gt; responses, String xmlServiceName, List`1&lt;String&gt; excludeProperties)</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.IsSimpleDateTypeType">
+            <summary>Sets the shim of XmlHelper.IsSimpleDateType(Type type)</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.IsSimpleListTypeType">
+            <summary>Sets the shim of XmlHelper.IsSimpleListType(Type type)</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.ShimXmlHelper.IsSimpleTypeType">
+            <summary>Sets the shim of XmlHelper.IsSimpleType(Type type)</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.StubExcelHelper">
+            <summary>Stub type of Amigo.Tenant.Common.ExcelHelper</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.StubExcelHelper.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.StubExcelHelper.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.StubExcelHelper.InitializeStub">
+            <summary>Initializes a new instance of type StubExcelHelper</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.StubExcelHelper.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.StubExcelHelper.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.Fakes.StubTupleList`2">
+            <summary>Stub type of Amigo.Tenant.Common.TupleList`2</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.StubTupleList`2.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.StubTupleList`2.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.Fakes.StubTupleList`2.InitializeStub">
+            <summary>Initializes a new instance of type StubTupleList</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.StubTupleList`2.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.Fakes.StubTupleList`2.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes">
+            <summary>Shim type of Amigo.Tenant.Common.ServiceConstants.Security.ActionCodes</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes.#ctor(Amigo.Tenant.Common.ServiceConstants.Security.ActionCodes)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimActionCodes.Constructor">
+            <summary>Sets the shim of ActionCodes.ActionCodes()</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimCacheKeys">
+            <summary>Shim type of Amigo.Tenant.Common.ServiceConstants.Security.CacheKeys</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimCacheKeys.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimCacheKeys.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimCacheKeys.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.ShimCacheKeys.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.StubActionCodes">
+            <summary>Stub type of Amigo.Tenant.Common.ServiceConstants.Security.ActionCodes</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.StubActionCodes.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.StubActionCodes.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.StubActionCodes.InitializeStub">
+            <summary>Initializes a new instance of type StubActionCodes</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.StubActionCodes.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Amigo.Tenant.Common.ServiceConstants.Security.Fakes.StubActionCodes.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
